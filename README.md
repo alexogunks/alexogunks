@@ -120,6 +120,6 @@ I'm always interested in learning, building, and connecting with people who enjo
   />
 </p>
 
-<h2>🐍 This is funny, most repos are private</h2>
+<p>🐍 This is funny, most repos are private</p>
 
 </div>
