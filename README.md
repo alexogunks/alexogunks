@@ -35,7 +35,7 @@ I work across the stack - from creating responsive user experiences to building 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,php,nextjs&theme=dark" alt="HTML, CSS, JavaScript, React, Vite, PHP, Next.js" />
 
 ### Backend & Data
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,python,php,nestjs,mongodb,postgresql,prismadb,nestjs&theme=dark" alt="Node.js, Express, MySQL, Python, PHP, NestJS, MongoDB, PostgreSQL, PrismaDB" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,python,php,nestjs,mongodb,postgresql&theme=dark" alt="Node.js, Express, MySQL, Python, PHP, NestJS, MongoDB, PostgreSQL" />
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, VS Code and Postman" />
@@ -66,6 +66,7 @@ I work across the stack - from creating responsive user experiences to building 
     </td>
   </tr>
 </table>
+<p style="font-size:14px;">And many more...</p>
 
 <!-- ## `04 / FEATURED WORK`
 
