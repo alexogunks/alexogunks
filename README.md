@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:22c55e,75:8b5cf6,100:020617&text=Alex%20Ogunks&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=FULL-STACK%20DEVELOPER&descAlignY=58&descSize=16" width="100%" alt="Alex Ogunks — Full-Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:22c55e,75:8b5cf6,100:020617&text=Alex%20Ogunks&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=FULL-STACK%20DEVELOPER&descAlignY=58&descSize=16" width="100%" alt="Alex Ogunks - Full-Stack Developer" />
 
 <a href="https://github.com/alexogunks">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=22C55E&center=true&vCenter=true&width=650&lines=Building+useful+things+for+the+web.;Frontend+%E2%80%A2+Backend+%E2%80%A2+Databases;Turning+ideas+into+working+products." alt="Typing introduction" />
@@ -20,7 +20,7 @@
 
 I'm Alex, a **Full-Stack Developer** who enjoys building practical web applications, thoughtful interfaces, and reliable backend systems.
 
-I work across the stack—from creating responsive user experiences to building APIs, authentication flows, and database-backed features. I care about making applications useful, maintainable, and straightforward to use.
+I work across the stack - from creating responsive user experiences to building APIs, authentication flows, and database-backed features. I care about making applications useful, maintainable, and straightforward to use.
 
 - **Focus:** Full-stack web development
 - **Enjoy building:** Web apps, dashboards, APIs, and developer tools
@@ -117,9 +117,10 @@ I'm always interested in learning, building, and connecting with people who enjo
     src="https://raw.githubusercontent.com/alexogunks/alexogunks/output/github-snake.svg"
     alt="GitHub contribution snake animation"
     width="100%"
+    onclick="() => {}"
   />
 </p>
 
-<p>🐍 This is funny, most repos are private</p>
+<p>🐍 This is funny, most repos are private.</p>
 
 </div>
