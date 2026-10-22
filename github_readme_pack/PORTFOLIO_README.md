@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:020617,45:22c55e,78:8b5cf6,100:020617&text=PERSONAL%20PORTFOLIO&fontColor=ffffff&fontSize=38&fontAlignY=42&desc=Design.%20Develop.%20Deliver.&descAlignY=66&descSize=17" width="100%" alt="Personal portfolio banner" />
 
-# Alex Ogunkunle
+# Alex Ogunks
 
 ### Full-Stack Developer
 
@@ -136,7 +136,7 @@ The aim is to keep the presentation bold without sacrificing readability, respon
 
 ## Contact
 
-**Alex Ogunkunle — Full-Stack Developer**
+**Alex Ogunks — Full-Stack Developer**
 
 - GitHub: https://github.com/alexogunks
 

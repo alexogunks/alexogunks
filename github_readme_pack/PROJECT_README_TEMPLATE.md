@@ -146,5 +146,5 @@ Specify the project's actual license here. If no license has been chosen, do not
 ---
 
 <div align="center">
-  <sub>Built with care by Alex Ogunkunle · <a href="https://github.com/alexogunks">GitHub</a></sub>
+  <sub>Built with care by Alex Ogunks · <a href="https://github.com/alexogunks">GitHub</a></sub>
 </div>
