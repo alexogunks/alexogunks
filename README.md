@@ -32,10 +32,10 @@ I work across the stack - from creating responsive user experiences to building 
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark" alt="HTML, CSS, JavaScript, React and Vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,php,nextjs&theme=dark" alt="HTML, CSS, JavaScript, React, Vite, PHP, Next.js" />
 
 ### Backend & Data
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,python&theme=dark" alt="Node.js, Express, MySQL and Python" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,python,php,nestjs,mongodb,postgresql,prismadb,nestjs&theme=dark" alt="Node.js, Express, MySQL, Python, PHP, NestJS, MongoDB, PostgreSQL, PrismaDB" />
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, VS Code and Postman" />
@@ -117,7 +117,6 @@ I'm always interested in learning, building, and connecting with people who enjo
     src="https://raw.githubusercontent.com/alexogunks/alexogunks/output/github-snake.svg"
     alt="GitHub contribution snake animation"
     width="100%"
-    onclick="() => {}"
   />
 </p>
 
