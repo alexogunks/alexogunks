@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:22c55e,75:8b5cf6,100:020617&text=Alex%20Ogunkse&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=FULL-STACK%20DEVELOPER&descAlignY=58&descSize=16" width="100%" alt="Alex Ogunks — Full-Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:22c55e,75:8b5cf6,100:020617&text=Alex%20Ogunks&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=FULL-STACK%20DEVELOPER&descAlignY=58&descSize=16" width="100%" alt="Alex Ogunks — Full-Stack Developer" />
 
 <a href="https://github.com/alexogunks">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=22C55E&center=true&vCenter=true&width=650&lines=Building+useful+things+for+the+web.;Frontend+%E2%80%A2+Backend+%E2%80%A2+Databases;Turning+ideas+into+working+products." alt="Typing introduction" />
@@ -119,5 +119,7 @@ I'm always interested in learning, building, and connecting with people who enjo
     width="100%"
   />
 </p>
+
+<h2>🐍 This is funny, most repos are private</h2>
 
 </div>
