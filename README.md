@@ -66,7 +66,7 @@ I work across the stack - from creating responsive user experiences to building 
     </td>
   </tr>
 </table>
-<p style="font-size:14px;">And many more...</p>
+<p style="font-size:12px;" align="left">And many more...</p>
 
 <!-- ## `04 / FEATURED WORK`
 
@@ -103,15 +103,8 @@ I'm always interested in learning, building, and connecting with people who enjo
   <a href="https://github.com/alexogunks?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
 </div>
 
-<div align="center">
-  <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:020617,50:8b5cf6,100:22c55e" width="100%" alt="" />
-  <sub><b>Build with purpose. Keep learning. Ship better.</b></sub>
-</div>
 
-<div align="center">
-
-<!-- <h2>🐍 Contribution Snake</h2> -->
+<h2>🐍 Contribution Graph</h2>
 
 <p>
   <img
@@ -124,3 +117,11 @@ I'm always interested in learning, building, and connecting with people who enjo
 <p>🐍 This is funny, most repos are private.</p>
 
 </div>
+
+<div align="center">
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:020617,50:8b5cf6,100:22c55e" width="100%" alt="" />
+  <sub><b>Build with purpose. Keep learning. Ship better.</b></sub>
+</div>
+
+<div align="center">
