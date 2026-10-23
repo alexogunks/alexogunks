@@ -66,7 +66,7 @@ I work across the stack - from creating responsive user experiences to building 
     </td>
   </tr>
 </table>
-<p style="font-size:12px;" align="left">And many more...</p>
+<sub><b align="left">And many more...</b></sub>
 
 <!-- ## `04 / FEATURED WORK`
 
@@ -114,7 +114,7 @@ I'm always interested in learning, building, and connecting with people who enjo
   />
 </p>
 
-<p>🐍 This is funny, most repos are private.</p>
+<sub><b>🐍 This is funny, most repos are private.</b></sub>
 
 </div>
 
