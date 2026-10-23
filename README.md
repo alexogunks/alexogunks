@@ -32,10 +32,10 @@ I work across the stack - from creating responsive user experiences to building 
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,php,nextjs&theme=dark" alt="HTML, CSS, JavaScript, React, Vite, PHP, Next.js" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,php,nextjs,tailwindcss,typescript&theme=dark" alt="HTML, CSS, JavaScript, React, Vite, PHP, Next.js, TailwindCSS, TypeScript" />
 
 ### Backend & Data
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,python,php,nestjs,mongodb,postgresql&theme=dark" alt="Node.js, Express, MySQL, Python, PHP, NestJS, MongoDB, PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,python,php,nestjs,mongodb,postgresql,firebase,supabase&theme=dark" alt="Node.js, Express, MySQL, Python, PHP, NestJS, MongoDB, PostgreSQL, Firebase, Supabase" />
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, VS Code and Postman" />
